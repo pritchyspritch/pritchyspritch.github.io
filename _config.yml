@@ -48,9 +48,9 @@ linkedin_username: spritchardsec
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Sam and I'm a Penetration Tester. I like testing systems for security issues, helping services build systems that are secure by design and writing code that makes our lives easier. I have worked for two organisations while I've been a pen tester and I have experience leading teams, managing testing schedules and developing penetration testing processes and documentation.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>AWS</mark>, <mark>Kali</mark>, <mark>Python</mark> and <mark>Eating.</mark>
 
 content:
   - title: Experience # Title for the section
@@ -165,6 +165,9 @@ content:
       - Gaming
       - Financial Markets
       - Travelling
+      - Eating out
+
+      I can also speak intermediate level Brazilian Portuguese.
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
