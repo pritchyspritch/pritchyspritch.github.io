@@ -70,12 +70,13 @@ content:
             My team currently performs:
             * web application penetration tests
             * AWS security reviews
+            * vulnerability scans (including for PCI compliance)
             * terraform code reviews
             * secure code reviews (languages include: Ruby, Python, GoLang, and Java)
             * review of the CI/CD pipelines and secret management
             * internal IT network penetration tests
             * assisting colleagues with finding issues in our SIEM and advising on attack methods
-            * developing scripts to improve our processes
+            * developing and editing scripts to improve our processes - an example of which is an [installed packages CVE evaluation script that I forked and edited to cut our PCI scanning time down by adding automatic package collection and personalised reporting](https://github.com/pritchyspritch/active-cve-check).
 
             During my time working with engineers, I also lead the development of our [Nessus scanner running in AWS, deployed by terraform and concourse CI/CD](https://github.com/alphagov/cyber-security-nessus), with all data automatically being sent to Splunk using our in-house log shipping tool.
 
