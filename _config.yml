@@ -41,7 +41,7 @@ linkedin_username: spritchardsec
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
+gtag: "G-0YCGLQX2NT"
 # google_analytics: "UA-00000000-0"
 
 # About Section
@@ -50,8 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Sam and I'm a Penetration Tester. I like testing systems for security issues, helping services build systems that are secure by design and writing code that makes our lives easier. I have worked for two organisations while I've been a pen tester and I have experience leading teams, managing testing schedules and developing penetration testing processes and documentation.
 
-  I am most skilled in: <mark>AWS</mark>, <mark>Kali</mark>, <mark>Python</mark> and <mark>Eating.</mark>
-
+  I am most skilled in: <mark>AWS</mark>, <mark>Kali</mark> and <mark>Python</mark>
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -164,15 +163,10 @@ content:
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in security and software engineering some of my other interests and hobbies are:
       - Gaming
-      - Financial Markets
       - Travelling
       - Eating out
 
       I can also speak intermediate level Brazilian Portuguese.
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
