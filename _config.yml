@@ -56,11 +56,21 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Kidsloop
+        link: https://kidsloop.net/
+        link_text: Kidsloop
+        sub_title: Application Security Consultant
+        caption: January 2022 - Present
+        quote: >
+          We aim to transform early years education by providing the tools and asset libraries to digitize content, collect data, and make a personalized learning path for every student.
+        description: | # this will include new lines to allow paragraphs
+
+      - layout: left
         title: Cabinet Office | CDIO Cyber Security
         link: www.gov.uk/government/organisations/cabinet-office
         link_text: GOV.UK
         sub_title: Ethical Hacker
-        caption: January 2019 - Present
+        caption: January 2019 - January 2022
         quote: >
           We support the Prime Minister and ensure the effective running of government. We are also the corporate headquarters for government, in partnership with HM Treasury, and we take the lead in certain critical policy areas.
         description: | # this will include new lines to allow paragraphs
