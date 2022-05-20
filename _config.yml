@@ -64,6 +64,15 @@ content:
         quote: >
           We aim to transform early years education by providing the tools and asset libraries to digitize content, collect data, and make a personalized learning path for every student.
         description: | # this will include new lines to allow paragraphs
+            I began working for KidsLoop as their new Application Security Consultant to help them to test their applications and infrastructure for vulnerabilities and to provide security advice and threat modelling earlier on in the Secure Software Development Lifecycle. This included setting up the new Threat Modelling process as well as working with teams on creating code scanning options in GitHub Actions and providing advice to teams working on new product features. So far I have been:
+           
+            * developing and running the Threat Modelling process following STRIDE and DREAD
+            * pen testing web applications 
+            * developing GitHub Actions reusable workflows and templates to scan code/terraform/containers for vulnerabilities
+            * automating reporting and scanning with scripts and APIs
+            * assisting teams to fix misconfigurations/issues
+            * contributing to the internal RFC processes
+            * providing security guidance to internal teams
 
       - layout: left
         title: Cabinet Office | CDIO Cyber Security
