@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Samuel Pritchard
-title: Ethical Hacker / Penetration Tester
+title: Application Security and Penetration Testing
 email: s.pritch@pm.me
 website: pritchyspritch.github.io
 
@@ -56,9 +56,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Kidsloop
+        title: KidsLoop
         link: https://kidsloop.net/
-        link_text: Kidsloop
+        link_text: KidsLoop
         sub_title: Application Security Consultant
         caption: January 2022 - Present
         quote: >
@@ -75,7 +75,7 @@ content:
             * providing security guidance to internal teams
 
       - layout: left
-        title: Cabinet Office | CDIO Cyber Security
+        title: Cabinet Office | CDIO Cyber Security | Government Digital Service (GDS)
         link: www.gov.uk/government/organisations/cabinet-office
         link_text: GOV.UK
         sub_title: Ethical Hacker
