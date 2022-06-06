@@ -71,6 +71,8 @@ content:
             * assisting teams to fix misconfigurations/issues
             * contributing to the internal RFC processes
             * providing security guidance to internal teams
+            * auditing EKS Kubernetes environment against CIS benchmarks
+            * reviewing AWS environments and testing suspected misconfigurations
 
       - layout: left
         title: Cabinet Office | CDIO Cyber Security | Government Digital Service (GDS)
