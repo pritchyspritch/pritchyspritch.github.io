@@ -54,15 +54,35 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: NewDay Cards
+        link: https://www.newday.co.uk/
+        link_text: NewDay
+        sub_title: Senior Application Security Engineer
+        caption: July 2022 - Present
+        quote: >
+          Helping people move forward with credit.
+        description: | # this will include new lines to allow paragraphs
+            My position at NewDay has helped me to further improve on my learnings from KidsLoop as an appsec engineer. I am now a member of a bigger Application Security team and we work together to improve the security of NewDays applications and infrastructure. This role has so far included:
+            
+            * running PoCs for DAST tools for deploying throughout the org applications
+            * building GitHub Actions templates and composites to deploy tools across the org
+            * contributing to application security processes and documentation for pen testing and issue triage
+            * organising and scoping pen tests
+            * testing for issues and providing remediation assistance
+            * providing guidance and assistance to other teams and team members
+            * organising and running threat models/reviews 
+            * scripting and automating to improve processes and visibility
+            
+      - layout: left
         title: KidsLoop
         link: https://kidsloop.net/
         link_text: KidsLoop
         sub_title: Application Security Consultant
-        caption: January 2022 - Present
+        caption: January 2022 - July 2022
         quote: >
           We aim to transform early years education by providing the tools and asset libraries to digitize content, collect data, and make a personalized learning path for every student.
         description: | # this will include new lines to allow paragraphs
-            I began working for KidsLoop as their new Application Security Consultant to help them to test their applications and infrastructure for vulnerabilities and to provide security advice and threat modelling earlier on in the Secure Software Development Lifecycle. This included setting up the new Threat Modelling process as well as working with teams on creating code scanning options in GitHub Actions and providing advice to teams working on new product features. So far I have been:
+            I began working for KidsLoop as their new Application Security Consultant to help them to test their applications and infrastructure for vulnerabilities and to provide security advice and threat modelling earlier on in the Secure Software Development Lifecycle. This included setting up the new Threat Modelling process as well as working with teams on creating code scanning options in GitHub Actions and providing advice to teams working on new product features. During my time at KidsLoop I worked on:
            
             * developing and running the Threat Modelling process following STRIDE and DREAD
             * pen testing web applications 
