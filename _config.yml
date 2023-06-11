@@ -118,7 +118,7 @@ content:
               * an [installed packages CVE evaluation script](https://github.com/pritchyspritch/active-cve-check) that I forked and edited to cut our PCI scanning time down by adding automatic package collection and personalised reporting.
               * a bash [script I hacked together](https://github.com/pritchyspritch/ecr-scanner) to download, build and scan AWS ECR container images with Trivy.
 
-            During my time working with engineers, I also lead the development of our [Nessus scanner running in AWS, deployed by terraform and concourse CI/CD](https://github.com/alphagov/cyber-security-nessus), with all data automatically being sent to Splunk using our in-house log shipping tool.
+            During my time working with engineers, I also lead the development of our [Nessus scanner running in AWS, deployed by terraform and concourse CI/CD](https://github.com/pritchyspritch/cyber-security-nessus), with all data automatically being sent to Splunk using our in-house log shipping tool.
 
             All our testing is done via our [Kali Linux testing machines deployed to AWS EC2 with terraform](https://github.com/alphagov/penetration-testing-instance), with our traffic from BurpSuite being tunneled through it also using SSH tunnels.
 
