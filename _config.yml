@@ -48,7 +48,7 @@ gtag: "G-0YCGLQX2NT"
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Sam and I'm an Application Security Consultant and Penetration Tester. I like testing systems for security issues, helping services build systems that are secure by design and writing scripts that automate my workflows. I have worked for three organisations while I've been a pen tester and app sec consultant. I have experience leading teams and managing testing schedules as well as developing processes and documentation for penetration testing and threat modelling.
+  Hi, my name's Sam and I'm an Application Security Engineer and Penetration Tester. I like testing systems for security issues, helping services build systems that are secure by design and writing scripts that automate my workflows. I have worked for four organisations while I've been a pen tester and app sec engineer. I have experience leading teams and managing testing schedules as well as developing processes and documentation for penetration testing and threat modelling.
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -64,14 +64,14 @@ content:
         description: | # this will include new lines to allow paragraphs
             My position at NewDay has helped me to further improve on my learnings from KidsLoop as an appsec engineer. I am now a member of a bigger Application Security team and we work together to improve the security of NewDays applications and infrastructure. This role has so far included:
             
-            * running PoCs for DAST tools for deploying throughout the org applications
-            * building GitHub Actions templates and composites to deploy tools across the org
+            * leading the roll out of our DAST tool across our estate, inlcuding the PoV, planning automation, fixing bugs, drafting a rollout schedule
+            * building and maintaining GitHub Actions templates and composites to deploy tools across the org
             * contributing to application security processes and documentation for pen testing and issue triage
             * organising and scoping pen tests
             * testing for issues and providing remediation assistance
-            * providing guidance and assistance to other teams and team members
+            * providing guidance and assistance to other teams and team members on application security and secure software development
             * organising and running threat models/reviews 
-            * scripting and automating to improve processes and visibility
+            * scripting and automating to improve processes and provide visibility in response to known issues and incidents
             
       - layout: left
         title: KidsLoop
