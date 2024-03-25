@@ -54,15 +54,31 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Department for Education (Contract)
+        link: https://www.education.gov.uk
+        link_text: DfE
+        sub_title: Cyber Security Engineer
+        caption: March 2024 - Present
+        quote: >
+          The Department for Education is responsible for children’s services and education, including early years, schools, higher and further education policy, apprenticeships and wider skills in England.
+        description: | # this will include new lines to allow paragraphs
+            I have been contracted by the Department for Education to provide guidance on the Secure Software Development Lifecycle, penetration testing, vulnerability management, threat modelling, and security tooling. Key tasks include:
+
+            * helping to develop continuous assurance against common benchmarks in Splunk
+            * producing threat models and providing assistance on building a threat modelling capability
+            * pen testing applications and infrastructure
+            * producing tooling, reusable workflows and templates to assist developers and security professionals in scanning and monitoring for threats with DevSecOps tools (SAST, DAST, SCA)
+            * helping to shape vulnerability management for development and security teams in a scalable way with automation and standards
+      - layout: left
         title: NewDay Cards
         link: https://www.newday.co.uk/
         link_text: NewDay
         sub_title: Senior Application Security Engineer
-        caption: July 2022 - Present
+        caption: July 2022 - March 2024
         quote: >
           Helping people move forward with credit.
         description: | # this will include new lines to allow paragraphs
-            My position at NewDay has helped me to further improve on my learnings from KidsLoop as an appsec engineer. I am now a member of a bigger Application Security team and we work together to improve the security of NewDays applications and infrastructure. This role has so far included:
+            My position at NewDay has helped me to further improve on my learnings from KidsLoop as an appsec engineer. I was a member of a bigger Application Security team and we worked together to improve the security of NewDays applications and infrastructure. This role included:
             
             * leading the roll out of our DAST tool across our estate, inlcuding the PoV, planning automation, fixing bugs, drafting a rollout schedule
             * building and maintaining GitHub Actions templates and composites to deploy tools across the org
