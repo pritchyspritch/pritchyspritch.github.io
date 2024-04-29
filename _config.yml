@@ -7,9 +7,9 @@ version: 2
 
 # Personal info
 name: Samuel Pritchard
-title: Application Security and Penetration Testing
-email: s.pritch@pm.me
-website: pritchyspritch.github.io
+title: Security Engineer
+email: sam@prigital.co.uk
+website: www.prigital.co.uk
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -48,7 +48,7 @@ gtag: "G-0YCGLQX2NT"
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Sam and I'm an Application Security Engineer and Penetration Tester. I like testing systems for security issues, helping services build systems that are secure by design and writing scripts that automate my workflows. I have worked for four organisations while I've been a pen tester and app sec engineer. I have experience leading teams and managing testing schedules as well as developing processes and documentation for penetration testing and threat modelling.
+  Hi, my name's Sam and I'm an Application Security Engineer. I like testing systems for security issues with my experience in pen testing, helping digital services to build systems that are secure by design and writing code to automate my workflows. I have worked for five organisations while I've been a pen tester and app sec engineer. I have experience leading teams and managing testing schedules as well as developing processes and documentation for penetration testing and threat modelling. I also have experience building automation in GitHub Actions such as reusable workflows, and composite actions. I've built tools using python and terraform in the past (with some shell scripting here and there), and I'm currently at the beginning of a journey learning Rust and Splunk.
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -65,10 +65,10 @@ content:
             I have been contracted by the Department for Education to provide guidance on the Secure Software Development Lifecycle, penetration testing, vulnerability management, threat modelling, and security tooling. Key tasks include:
 
             * helping to develop continuous assurance against common benchmarks in Splunk
-            * producing threat models and providing assistance on building a threat modelling capability
+            * producing threat models and providing assistance on building a threat modelling capability including automated threat models for scalability
             * pen testing applications and infrastructure
             * producing tooling, reusable workflows and templates to assist developers and security professionals in scanning and monitoring for threats with DevSecOps tools (SAST, DAST, SCA)
-            * helping to shape vulnerability management for development and security teams in a scalable way with automation and standards
+            * helping to shape vulnerability management for development and security teams in a scalable way with automation and standards, including [automated security.txt and thanks.txt deployments with terraform and github actions](https://github.com/dfe-Digital/vulnerability-disclosure-program)
       - layout: left
         title: NewDay Cards
         link: https://www.newday.co.uk/
@@ -78,7 +78,7 @@ content:
         quote: >
           Helping people move forward with credit.
         description: | # this will include new lines to allow paragraphs
-            My position at NewDay has helped me to further improve on my learnings from KidsLoop as an appsec engineer. I was a member of a bigger Application Security team and we worked together to improve the security of NewDays applications and infrastructure. This role included:
+            My position at NewDay helped me to further improve on my learnings from KidsLoop as an appsec engineer. I was a member of a bigger Application Security team and we worked together to improve the security of NewDays applications and infrastructure. This role included:
             
             * leading the roll out of our DAST tool across our estate, inlcuding the PoV, planning automation, fixing bugs, drafting a rollout schedule
             * building and maintaining GitHub Actions templates and composites to deploy tools across the org
@@ -214,16 +214,6 @@ content:
           - Internet Technologies
           - Knowledge Based Systems
           - Object Oriented Modelling and Programming.
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in security and software engineering some of my other interests and hobbies are:
-      - Gaming
-      - Travelling
-      - Eating out
-
-      I can also speak intermediate level Brazilian Portuguese.
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
