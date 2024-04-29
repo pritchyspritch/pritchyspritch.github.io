@@ -160,18 +160,17 @@ content:
 
       - layout: left
         title: Prigital Ltd
-        link: pritchyspritch.github.io
+        link: www.prigital.co.uk
         link_text: Prigital
-        sub_title: Self employed digital services provider
-        caption: August 2019 - May 2020
+        sub_title: Self employed digital services provider / Application Security Consultancy
+        caption: August 2019 - May 2020 / March 2024 - Present
         quote: >
-          Prigital is a company I set up to allow me to provide web development services to a single client
+          Prigital is a company I set up to allow me to provide web development services to a single client, but has now been repurposed to provide application security consultancy.
         description: | # this will include new lines to allow paragraphs
-            Prigital was set up to provide digital services to a single client in the shipping industry. I came in halfway through a project to develop it further, bring a sub-contractor on through my company and manage the delivery.
+            Prigital was originally set up to provide digital services to a single client in the shipping industry. I came in halfway through a project to develop it further, bring on a sub-contractor on through my company and manage the delivery.
 
-            We used:
-            * Python and Django
-            * AWS EC2, SES, and S3
+            Prigital Ltd has since been repurposed to provide Application Security Constultancy and Engineering services.
+
 
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
