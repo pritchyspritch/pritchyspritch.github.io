@@ -65,12 +65,15 @@ content:
             I have been contracted by the Department for Education to provide guidance on the Secure Software Development Lifecycle, penetration testing, vulnerability management, threat modelling, and security tooling. Key tasks include:
 
             * helping to develop continuous assurance against common benchmarks in Splunk
-            * consulting on Secure by Design processes and the Secure Software Development Lifecycle to help DfE provide security services in support of the [CDDO Secure by Design Principle](https://www.security.gov.uk/policy-and-guidance/secure-by-design/principles/)
+            * releasing and packaging [a tool built by the team to package up and release Splunk Apps](https://github.com/DFE-Digital/splunk-app-packager)
+            * consulting on Secure by Design processes and the Secure Software Development Lifecycle to help DfE provide security services in support of the [CDDO Secure by Design Principles](https://www.security.gov.uk/policy-and-guidance/secure-by-design/principles/)
+            * contributing to the building of [documentation and standards for secure by design](https://github.com/DFE-Digital/secure-by-design-docs)
             * producing threat models and providing assistance on building a threat modelling capability including automated threat models for scalability
             * pen testing applications and infrastructure
-            * producing tooling, [reusable workflows and templates to assist developers and security professionals in scanning and monitoring for threats with DevSecOps tools (SAST, DAST, SCA)](https://github.com/DFE-Digital/github-actions/blob/master/.github/workflows/reusable-workflow-sast.yml)
+            * producing tooling, such as [reusable workflows and templates to assist developers and security professionals in scanning and monitoring for threats with DevSecOps tools (SAST, DAST, SCA)](https://github.com/DFE-Digital/github-actions/blob/master/.github/workflows/reusable-workflow-sast.yml)
             * helping to shape vulnerability management for development and security teams in a scalable way with automation and standards, including [automated security.txt and thanks.txt deployments to Azure with terraform and github actions](https://github.com/dfe-Digital/vulnerability-disclosure-program)
             * building [standards for GitHub](https://technical-guidance.education.gov.uk/standards/storing-source-code/#summary-highlights) and Application Security
+            
       - layout: left
         title: NewDay Cards
         link: https://www.newday.co.uk/
