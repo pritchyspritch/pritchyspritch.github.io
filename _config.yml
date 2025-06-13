@@ -48,21 +48,40 @@ gtag: "G-0YCGLQX2NT"
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Sam and I'm a Security Engineer. I like testing systems for security issues with my experience in pen testing, helping digital services to build systems that are secure by design and writing code to automate my workflows. I have worked for a number of organisations while I've been a pen tester and app sec engineer. I have experience leading teams and managing testing schedules as well as developing processes and documentation for application security and penetration testing. I also have experience building automation in GitHub Actions such as reusable workflows, and composite actions. I've built tools using python and terraform deployed to AWS and Azure, and I'm currently at the beginning of a journey learning Rust and Splunk.
+  Hi, my name's Sam and I'm a Security Engineer. I like testing systems for security issues with my experience in pen testing, helping digital services to build systems that are secure by design and writing code to automate my workflows. I am a big advocate of security engineering involving security controls written in code: reusable templates, guardrails, policy as code, config as code, infrastructure as code, secure libraries/modules. 
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Holland and Barrett
+        link: https://www.hollandandbarrett.com
+        link_text: H&B
+        sub_title: Senior Application Security Engineer
+        caption: March 2025 - Present
+        quote: >
+          H&B International is one of the world’s leading health and wellness retailers and the largest in Europe supplying its customers with a wide range of vitamins, minerals, health supplements, specialist foods and natural beauty products. With over 145 years of experience in the industry, our name is a familiar sight in almost every major city and town across the UK and is becoming increasingly more visible further afield, in markets as diverse as the Netherlands and Malta to the UAE, China and India.
+        description: | # this will include new lines to allow paragraphs
+            My role at Holland and Barrett is to help them to build a secure by design culture and to provide security tooling and guidance to the development teams. I am working on:
+            
+            * building a secure by design culture and processes
+            * providing security tooling and guidance to the development teams
+            * developing and maintaining security tooling such as GitLab CI/CD components and templates
+            * producing tooling to assist with vulnerability management, tooling usage and secure software development
+            * working closely with the Cloud Security team to ensure that security is built into the cloud infrastructure, deployment processes and applications
+            * implement guardrails, security controls, policy as code, and automation to ensure that security is built into the development process
+            * introduce threat modelling and secure software development lifecycle processes to teams
+           
+      - layout: left
         title: Department for Education (Contract)
         link: https://www.education.gov.uk
         link_text: DfE
         sub_title: Cyber Security Engineer
-        caption: March 2024 - Present
+        caption: March 2024 - March 2025
         quote: >
           The Department for Education is responsible for children's services and education, including early years, schools, higher and further education policy, apprenticeships and wider skills in England.
         description: | # this will include new lines to allow paragraphs
-            I have been contracted by the Department for Education to provide guidance on the Secure Software Development Lifecycle, penetration testing, vulnerability management, threat modelling, and security tooling. Key tasks include:
+            I was contracted by the Department for Education to provide guidance on the Secure Software Development Lifecycle, penetration testing, vulnerability management, threat modelling, and security tooling. Key tasks included:
 
             * helping to develop continuous assurance against common benchmarks in Splunk
             * releasing and packaging [a tool built by the team to package up and release Splunk Apps](https://github.com/DFE-Digital/splunk-app-packager)
