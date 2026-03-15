@@ -57,7 +57,7 @@ content:
         title: Holland and Barrett
         link: https://www.hollandandbarrett.com
         link_text: H&B
-        sub_title: Senior Application Security Engineer
+        sub_title: Lead Security Engineer
         caption: March 2025 - Present
         quote: >
           H&B International is one of the world’s leading health and wellness retailers and the largest in Europe supplying its customers with a wide range of vitamins, minerals, health supplements, specialist foods and natural beauty products. With over 145 years of experience in the industry, our name is a familiar sight in almost every major city and town across the UK and is becoming increasingly more visible further afield, in markets as diverse as the Netherlands and Malta to the UAE, China and India.
@@ -70,8 +70,8 @@ content:
             * working closely with the Cloud Security team to ensure that security is built into the cloud infrastructure, deployment processes and applications
             * implementing guardrails, security controls, policy as code, and automation to ensure that security is built into the development process
             * introducing threat modelling and secure software development lifecycle processes to teams
-            * building terraform modules for deploying security tooling
-           
+            * building terraform modules for deploying secure infrastructure
+
       - layout: left
         title: Department for Education (Contract)
         link: https://www.education.gov.uk
